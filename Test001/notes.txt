@@ -1,0 +1,11 @@
+Was able to:
+1. browse internet for current political events
+2. form controversial opinions based on these events
+3. write tweets for these opinions, that are designed to not get reported on twitter
+
+Was not able to:
+1. post these tweets on twitter (due to error in the post tweet command, not gpt!)
+2. continue browsing fro more events due to json parser errors
+
+(not these limitations are only bugs in the scripts, not limitations of gpt.
+gpt is likely to be able to do all these things once these bugs are cleared)
